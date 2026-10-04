@@ -1,0 +1,242 @@
+{
+  "locations": {
+    "Entry Gate 1": [
+      1,
+      9
+    ],
+    "Reception of Calcutta University": [
+      1,
+      6
+    ],
+    "Canteen (CU Technology Campus)": [
+      2,
+      8
+    ],
+    "Power Area": [
+      1,
+      4
+    ],
+    "CRNN Centre (Nano Technology)": [
+      4,
+      6
+    ],
+    "Auditorium Hall": [
+      4,
+      8
+    ],
+    "Playground of Department of Technology": [
+      0,
+      2
+    ],
+    "Parking Area": [
+      3,
+      1
+    ],
+    "Tower 2 Front Entry": [
+      4,
+      3
+    ],
+    "CSE_Reflxon Room": [
+      4,
+      4
+    ],
+    "CSE Laboratory": [
+      5,
+      3
+    ],
+    "CSE_AKC Seminar Hall": [
+      5,
+      5
+    ],
+    "Tower 2 Rear Entry": [
+      7,
+      2
+    ],
+    "Library": [
+      7,
+      3
+    ],
+    "Lift Area": [
+      6,
+      4
+    ],
+    "Garden Area (Technology Campus)": [
+      7,
+      6
+    ],
+    "New Building 1": [
+      10,
+      5
+    ],
+    "New Building 2 (Workshop Building)": [
+      8,
+      8
+    ],
+    "Entry Gate 2": [
+      10,
+      9
+    ],
+    "College Street": [
+      10,
+      2
+    ]
+  },
+  "edges": [
+    [
+      "Entry Gate 1",
+      "Reception of Calcutta University",
+      90
+    ],
+    [
+      "Entry Gate 1",
+      "Canteen (CU Technology Campus)",
+      120
+    ],
+    [
+      "Reception of Calcutta University",
+      "Power Area",
+      55
+    ],
+    [
+      "Reception of Calcutta University",
+      "CRNN Centre (Nano Technology)",
+      110
+    ],
+    [
+      "Reception of Calcutta University",
+      "Canteen (CU Technology Campus)",
+      80
+    ],
+    [
+      "Power Area",
+      "Playground of Department of Technology",
+      100
+    ],
+    [
+      "Playground of Department of Technology",
+      "Parking Area",
+      100
+    ],
+    [
+      "Parking Area",
+      "Tower 2 Front Entry",
+      130
+    ],
+    [
+      "Tower 2 Front Entry",
+      "CRNN Centre (Nano Technology)",
+      95
+    ],
+    [
+      "CRNN Centre (Nano Technology)",
+      "Auditorium Hall",
+      100
+    ],
+    [
+      "Canteen (CU Technology Campus)",
+      "Auditorium Hall",
+      100
+    ],
+    [
+      "Auditorium Hall",
+      "New Building 2 (Workshop Building)",
+      145
+    ],
+    [
+      "New Building 2 (Workshop Building)",
+      "Garden Area (Technology Campus)",
+      100
+    ],
+    [
+      "Garden Area (Technology Campus)",
+      "New Building 1",
+      145
+    ],
+    [
+      "New Building 1",
+      "Entry Gate 2",
+      100
+    ],
+    [
+      "New Building 1",
+      "College Street",
+      100
+    ],
+    [
+      "College Street",
+      "Tower 2 Rear Entry",
+      160
+    ],
+    [
+      "Tower 2 Rear Entry",
+      "Library",
+      55
+    ],
+    [
+      "Library",
+      "Lift Area",
+      35
+    ],
+    [
+      "Tower 2 Front Entry",
+      "Lift Area",
+      65
+    ],
+    [
+      "Tower 2 Rear Entry",
+      "Lift Area",
+      60
+    ],
+    [
+      "Lift Area",
+      "CSE_Reflxon Room",
+      35
+    ],
+    [
+      "Lift Area",
+      "CSE Laboratory",
+      30
+    ],
+    [
+      "Lift Area",
+      "CSE_AKC Seminar Hall",
+      40
+    ],
+    [
+      "CSE_Reflxon Room",
+      "CSE Laboratory",
+      45
+    ],
+    [
+      "CSE Laboratory",
+      "CSE_AKC Seminar Hall",
+      40
+    ],
+    [
+      "CSE_Reflxon Room",
+      "CSE_AKC Seminar Hall",
+      35
+    ],
+    [
+      "Library",
+      "Garden Area (Technology Campus)",
+      125
+    ],
+    [
+      "Garden Area (Technology Campus)",
+      "Lift Area",
+      100
+    ],
+    [
+      "Canteen (CU Technology Campus)",
+      "New Building 2 (Workshop Building)",
+      180
+    ],
+    [
+      "Reception of Calcutta University",
+      "Auditorium Hall",
+      160
+    ]
+  ],
+  "notes": "Illustrative connectivity and approximate walking costs inferred from the map in Assignment_X3.pdf. Verify and adjust using actual campus walkways/experience."
+}

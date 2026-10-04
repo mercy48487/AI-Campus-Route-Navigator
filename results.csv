@@ -1,0 +1,11 @@
+start,goal,agent,path,cost_m,nodes_explored,time_seconds
+Reception of Calcutta University,Library,PATHFINDER (Greedy Best-First),Reception of Calcutta University -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> Tower 2 Rear Entry -> Library,385,6,0.00003657
+Reception of Calcutta University,Library,ORBIT (A*),Reception of Calcutta University -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> Tower 2 Rear Entry -> Library,385,8,0.00001940
+Canteen (CU Technology Campus),New Building 2 (Workshop Building),PATHFINDER (Greedy Best-First),Canteen (CU Technology Campus) -> New Building 2 (Workshop Building),180,2,0.00000428
+Canteen (CU Technology Campus),New Building 2 (Workshop Building),ORBIT (A*),Canteen (CU Technology Campus) -> New Building 2 (Workshop Building),180,2,0.00000327
+Entry Gate 1,CSE Laboratory,PATHFINDER (Greedy Best-First),Entry Gate 1 -> Reception of Calcutta University -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> CSE Laboratory,390,6,0.00001254
+Entry Gate 1,CSE Laboratory,ORBIT (A*),Entry Gate 1 -> Reception of Calcutta University -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> CSE Laboratory,390,8,0.00001444
+Auditorium Hall,CSE_AKC Seminar Hall,PATHFINDER (Greedy Best-First),Auditorium Hall -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> CSE_AKC Seminar Hall,300,5,0.00000935
+Auditorium Hall,CSE_AKC Seminar Hall,ORBIT (A*),Auditorium Hall -> CRNN Centre (Nano Technology) -> Tower 2 Front Entry -> Lift Area -> CSE_AKC Seminar Hall,300,6,0.00001059
+Library,Canteen (CU Technology Campus),PATHFINDER (Greedy Best-First),Library -> Garden Area (Technology Campus) -> New Building 2 (Workshop Building) -> Canteen (CU Technology Campus),405,4,0.00000808
+Library,Canteen (CU Technology Campus),ORBIT (A*),Library -> Lift Area -> Tower 2 Front Entry -> CRNN Centre (Nano Technology) -> Auditorium Hall -> Canteen (CU Technology Campus),395,7,0.00001382
